@@ -1,2 +1,2 @@
 for i in file:
-print i
+  print i
